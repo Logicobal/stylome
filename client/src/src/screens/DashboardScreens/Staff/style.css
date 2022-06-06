@@ -1,0 +1,7 @@
+.staff .MuiTextField-root,
+.staff .MuiInputBase-root {
+	margin-right: 10px;
+}
+.MuiAutocomplete-root.service {
+	margin-right: 15px;
+}
